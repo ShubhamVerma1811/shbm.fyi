@@ -1,0 +1,28 @@
+{
+  "redirects": [
+    {
+      "destination": "https://blogs.shubhamverma.me",
+      "source": "/blogs"
+    },
+    {
+      "destination": "https://github.com/ShubhamVerma1811",
+      "source": "/github"
+    },
+    {
+      "destination": "https://github.com/ShubhamVerma1811",
+      "source": "/gh"
+    },
+    {
+      "destination": "https://linkedin.com/in/shubhamverma1811",
+      "source": "/li"
+    },
+    {
+      "destination": "https://linkedin.com/in/shubhamverma1811",
+      "source": "/linkedin"
+    },
+    {
+      "destination": "https://shubhamverma.me",
+      "source": "/(.*)"
+    }
+  ]
+}
