@@ -2,23 +2,19 @@
   "redirects": [
     {
       "destination": "https://blogs.shubhamverma.me",
-      "source": "/blogs"
+      "source": "/(blogs|blog)"
     },
     {
       "destination": "https://github.com/ShubhamVerma1811",
-      "source": "/github"
-    },
-    {
-      "destination": "https://github.com/ShubhamVerma1811",
-      "source": "/gh"
+      "source": "/(github|gh)"
     },
     {
       "destination": "https://linkedin.com/in/shubhamverma1811",
-      "source": "/li"
+      "source": "/(linkedin|lh)"
     },
     {
-      "destination": "https://linkedin.com/in/shubhamverma1811",
-      "source": "/linkedin"
+      "destination": "https://twitter.com/verma__shubham",
+      "source": "/(twitter|tw)"
     },
     {
       "destination": "https://shubhamverma.me",
