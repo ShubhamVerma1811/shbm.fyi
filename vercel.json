@@ -17,6 +17,18 @@
       "source": "/(twitter|tw)"
     },
     {
+      "destination": "https://dev.to/shubhamverma",
+      "source": "/(devto)"
+    },
+    {
+      "destination": "https://open.spotify.com/user/shubhamverma1811",
+      "source": "/(spotify|sp)"
+    },
+    {
+      "destination": "https://instagram.com/shubham.verma.me",
+      "source": "/(instagram|ig)"
+    },
+    {
       "destination": "https://shubhamverma.me",
       "source": "/(.*)"
     }
