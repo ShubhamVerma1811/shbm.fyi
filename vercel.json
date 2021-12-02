@@ -10,7 +10,7 @@
     },
     {
       "destination": "https://linkedin.com/in/shubhamverma1811",
-      "source": "/(linkedin|lh)"
+      "source": "/(linkedin|lh|li)"
     },
     {
       "destination": "https://twitter.com/verma__shubham",
