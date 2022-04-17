@@ -5,6 +5,10 @@
       "source": "/(blogs|blog)"
     },
     {
+      "destination": "https://shubhamverma.me/blog/:slug",
+      "source": "/blog/:slug"
+    },
+    {
       "destination": "https://github.com/ShubhamVerma1811",
       "source": "/(github|gh)"
     },
@@ -31,10 +35,6 @@
     {
       "destination": "https://shubhamverma.me",
       "source": "/(.*)"
-    },
-    {
-      "destination": "https://shubhamverma.me/blog/:slug",
-      "source": "/blog/:slug"
     }
   ]
 }
