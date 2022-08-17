@@ -9,7 +9,7 @@
       "source": "/blog/:slug"
     },
     {
-      "destination": "https://github.com/ShubhamVerma1811/Socials",
+      "destination": "https://shubhamverma.me/socials",
       "source": "/(socials|social)"
     },
     {
