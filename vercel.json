@@ -9,6 +9,10 @@
       "source": "/blog/:slug"
     },
     {
+      "destination": "https://drive.google.com/file/d/1WL5bIjipkpulVW6a3gcwHgMGpvvU6IFq/view",
+      "source": "/(resume|cv)"
+    },
+    {
       "destination": "https://shubhamverma.me/socials",
       "source": "/(socials|social)"
     },
