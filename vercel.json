@@ -45,6 +45,10 @@
       "source":"/roc8-talk"
     },
     {
+      "destination":"https://cal.com/shubhamverma",
+      "source":"/(cal|calender|calendar)"
+    },
+    {
       "destination": "https://shubhamverma.me",
       "source": "/(.*)"
     }
