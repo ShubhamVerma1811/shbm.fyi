@@ -49,6 +49,10 @@
       "source":"/(cal|calender|calendar)"
     },
     {
+      "destination":"https://strava.com/athletes/shubhamverma",
+      "source":"/(strava)"
+    },
+    {
       "destination": "https://shubhamverma.me",
       "source": "/(.*)"
     }
