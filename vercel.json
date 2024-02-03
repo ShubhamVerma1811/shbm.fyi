@@ -41,20 +41,24 @@
       "source": "/(instagram|ig)"
     },
     {
-      "destination":"https://github.com/ShubhamVerma1811/roc8-talk",
-      "source":"/roc8-talk"
+      "destination": "https://github.com/ShubhamVerma1811/roc8-talk",
+      "source": "/roc8-talk"
     },
     {
-      "destination":"https://cal.com/shubhamverma",
-      "source":"/(cal|calender|calendar)"
+      "destination": "https://cal.com/shubhamverma",
+      "source": "/(cal|calender|calendar)"
     },
     {
-      "destination":"https://strava.com/athletes/shubhamverma",
-      "source":"/(strava)"
+      "destination": "https://strava.com/athletes/shubhamverma",
+      "source": "/(strava)"
     },
     {
-      "destination":"https://shubhamverma.me/talks",
-      "source":"/(talks|talk)"
+      "destination": "https://youtu.be/xvFZjo5PgG0",
+      "source": "/(promise)"
+    },
+    {
+      "destination": "https://shubhamverma.me/talks",
+      "source": "/(talks|talk)"
     },
     {
       "destination": "https://shubhamverma.me",
