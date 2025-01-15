@@ -65,6 +65,10 @@
       "source": "/(talks|talk)"
     },
     {
+      "destination": "https://shubhamverma.me/wall",
+      "source": "/(wall|testimonial|testimonials)"
+    },
+    {
       "destination": "https://shubhamverma.me",
       "source": "/(.*)"
     },
